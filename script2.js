@@ -59,3 +59,5 @@ Array.from(muveletek).forEach(muvelet => {
         eredmeny.textContent=c;
     });
 });
+
+//ez egy változtatáás
